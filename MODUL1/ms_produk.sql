@@ -39,3 +39,4 @@ VALUES
 
 -- hasilnya
 SELECT * FROM produk;
+SELECT kode_produk, nama_produk FROM produk;
